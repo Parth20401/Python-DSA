@@ -1,6 +1,6 @@
 """
 # Problem: Islands and Treasure (Nearest Treasure Chest)
-# Link: [https://neetcode.io/problems/islands-and-treasure/question?list=neetcode150]
+# [Link](https://neetcode.io/problems/islands-and-treasure/question?list=neetcode150)
 #
 # Pattern: Multi-Source Breadth-First Search (BFS)
 #
